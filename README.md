@@ -2,10 +2,10 @@
 
 ### インストール
 
-* pip で security/py-certbot-dns-pns を入れる
+* pip で certbot-pdns を入れる
 
 ```
-# 
+# pip install certbot-pdns
 
 ```
 
